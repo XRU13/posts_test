@@ -1,1 +1,11 @@
-...твой .gitignore...
+mangoz_test
+.venv
+alembic
+app
+tests
+.gitignore
+alembic.ini
+docker-compose.yml
+Dockerfile
+README.md
+requirements.txt
